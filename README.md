@@ -1,2 +1,2 @@
-# SPM-Modules
-A group of reusable swift package modules
+# Swift-Templates
+A group of reusable swift modules / functionalities
